@@ -3,7 +3,7 @@ title = "popodidi"
 baseURL = "https://popodidi.haostudio.cc/"
 theme = "hugo-theme-cactus-plus"
 
-# googleAnalytics = "your_google_analytics_code"
+googleAnalytics = "UA-96053237-1"
 
 [params]
 	name = "@popodidi"
@@ -29,7 +29,7 @@ theme = "hugo-theme-cactus-plus"
 	useDescriptionAsTitle = false
 
 	# Enable googleAnalytics
-	enableGoogleAnalytics = false
+	enableGoogleAnalytics = true
 
 	# Enable baiduAnalytics
 	enableBaiduAnalytics = false

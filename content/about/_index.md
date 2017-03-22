@@ -23,8 +23,7 @@ __[Slackbot][slackbot]__ - Slack bot in Swift with Vapor framework
 #### JavaScript
 
 __[idoticon][idoticon]__ - Dot identicon generator.  
-__[bookshelf-plugin-mode][bookshelf-plugin-mode]__ - bookshelf-plugin-mode is inspired by visibility plugin, providing functionality to specify different modes with corresponding visible/hidden fields of model.
-
+__[bookshelf-plugin-mode][bookshelf-plugin-mode]__ - bookshelf-plugin-mode is inspired by visibility plugin, providing functionality to specify different modes with corresponding visible/hidden fields of model.  
 __[*Column][column]__ - Column is a GUI of SQLite database.  
 __[*gitbook-plugin-signature][gitbook-plugin-signature]__ - A gitbook plugin for automatically adding timestamp, copyright terms and custom signature.
 
