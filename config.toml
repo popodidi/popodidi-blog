@@ -70,6 +70,7 @@ googleAnalytics = "UA-96053237-1"
 # Add additional social link entries underneath
 [social]
 	# facebook-square = "your_facebook_link"
-  # twitter-square = "your_twitter_link"
-  github-square = "https://github.com/popodidi"
-  linkedin-square = "https://www.linkedin.com/in/hao-chang-78190a83"
+    # twitter-square = "your_twitter_link"
+    github = "https://github.com/popodidi"
+    linkedin = "https://www.linkedin.com/in/hao-chang-78190a83"
+    envelope = "mailto:changhao@haostudio.cc"
