@@ -8,6 +8,10 @@ I'm a professional __iOS__ developer. Besides iOS development, I also play aroun
 
 ***
 
+### iOS Application
+
+__[揀－選擇器][jian]__ - Life is a chain of decisions. 揀－選擇器 ( Jian - Picker ) is your best mentor, providing great, random advices to get you forward. You can download objective and options from others or share your own options.
+
 ### Open-sourced project
 
 #### iOS
@@ -29,6 +33,7 @@ __[*gitbook-plugin-signature][gitbook-plugin-signature]__ - A gitbook plugin for
 
 ___\* project might be deprecated or not working.___
 
+[jian]: https://itunes.apple.com/tw/app/%E6%8F%80-%E9%81%B8%E6%93%87%E5%99%A8/id1122584102?mt=8
 
 [vapor]: https://vapor.codes
 [nodejs]: https://nodejs.org
