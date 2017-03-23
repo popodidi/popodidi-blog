@@ -86,9 +86,9 @@ Pod::Spec.new do |s|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = <MIT（MIT是open source的認證，一般來說pod都是開源軟體，目前我們的pod不會被其他人使用，就先不處理認證的問題）'
-  s.author           = { "Hao" => "hao@hao.com" }
-  s.source           = { :git =>     "https://github.com//myFirstPod.git（稍後介紹使用Git的時候再一併說明）", :tag =>   s.version.to_s }
+  s.description      = MIT（MIT是open source的認證，一般來說pod都是開源軟體，目前我們的pod不會被其他人使用，就先不處理認證的問題）'
+  s.author           = { "Hao" => "changhao@haostudio.cc" }
+  s.source           = { :git =>     "https://github.com/popodidi/myFirstPod.git（稍後介紹使用Git的時候再一併說明）", :tag =>   s.version.to_s }
 
   # s.social_media_url = 'https://twitter.com/'
   s.ios.deployment_target = '8.0'
