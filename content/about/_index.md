@@ -22,7 +22,7 @@ __[HSegmentControl][hsegmentcontrol]__ - A customized segment control sublassing
 
 #### Swift
 
-__[Slackbot][slackbot]__ - Slack bot in Swift with Vapor framework
+__[*Slackbot][slackbot]__ - Slack bot in Swift with Vapor framework
 
 #### JavaScript
 
@@ -31,7 +31,7 @@ __[bookshelf-plugin-mode][bookshelf-plugin-mode]__ - bookshelf-plugin-mode is in
 __[*Column][column]__ - Column is a GUI of SQLite database.  
 __[*gitbook-plugin-signature][gitbook-plugin-signature]__ - A gitbook plugin for automatically adding timestamp, copyright terms and custom signature.
 
-___\* project might be deprecated or not working.___
+___* project might be deprecated or not working.___
 
 [jian]: https://itunes.apple.com/tw/app/%E6%8F%80-%E9%81%B8%E6%93%87%E5%99%A8/id1122584102?mt=8
 
