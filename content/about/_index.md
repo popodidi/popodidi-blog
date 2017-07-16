@@ -10,12 +10,13 @@ I'm a professional __iOS__ developer. Besides iOS development, I also play aroun
 
 ### iOS Application
 
-__[揀－選擇器][jian]__ - Life is a chain of decisions. 揀－選擇器 ( Jian - Picker ) is your best mentor, providing great, random advices to get you forward. You can download objective and options from others or share your own options.
+__[*揀－選擇器][jian]__ - Life is a chain of decisions. 揀－選擇器 ( Jian - Picker ) is your best mentor, providing great, random advices to get you forward. You can download objective and options from others or share your own options.
 
 ### Open-sourced project
 
 #### iOS
 
+__[Progress][progress]__ - A iOS progress indicator tool  
 __[HTagView][htagview]__ - A customized tag view UI element for iOS development  
 __[HActionButton][hactionbutton]__ - Action button with customizable items, position and animation.  
 __[HSegmentControl][hsegmentcontrol]__ - A customized segment control sublassing UIControl.  
@@ -40,6 +41,7 @@ ___* project might be deprecated or not working.___
 [express]: https://expressjs.com
 [react]: https://facebook.github.io/react/
 
+[progress]: https://github.com/popodidi/Progress
 [htagview]: https://github.com/popodidi/HTagView
 [hactionbutton]: https://github.com/popodidi/HActionButton
 [hsegmentcontrol]: https://github.com/popodidi/HSegmentControl

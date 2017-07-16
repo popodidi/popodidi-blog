@@ -27,6 +27,8 @@ REST API documentation is always a nightmare of backend developer. Especially wh
 - macOS Sierra, 10.12.4
 - node v7.7.1
 - npm v4.1.2
+- duckdoc v0.8.x
+- duckdoc-jsoner v0.5.x
 - express-generator v4.15.0
 
 ----
